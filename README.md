@@ -6,7 +6,7 @@
 
 <br>
 
-## 🚀 Tecnologias
+## <br>Tecnologias</br>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 🔖 Layout
+## <br>Layout</br>
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/8lFwgBvexOcQbwDeR1h1n7/Projeto---Links?type=design&node-id=0%3A1&mode=design&t=MLn5TQuT9Hya3JOP-1). <br>
 É necessário ter conta no [Figma](https://figma.com) e solicitar convite para acessá-lo na página.
