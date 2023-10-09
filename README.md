@@ -29,4 +29,4 @@ Ou também, segue abaixo uma imagem do projeto:
 
 <br>
 
-<a href="https://linktr.ee/renanolv?utm_source=linktree_admin_share">Autor - Renan Oliveira</a>
+<a href="https://www.linkedin.com/in/renanolv/">Autor - Renan Oliveira</a>
