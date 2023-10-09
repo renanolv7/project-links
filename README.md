@@ -17,8 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## <br>Layout</br>
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/8lFwgBvexOcQbwDeR1h1n7/Projeto---Links?type=design&node-id=0%3A1&mode=design&t=MLn5TQuT9Hya3JOP-1). <br>
-É necessário ter conta no [Figma](https://figma.com) e solicitar convite para acessá-lo na página.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/8lFwgBvexOcQbwDeR1h1n7/Projeto---Links?type=design&node-id=0%3A1&mode=design&t=MLn5TQuT9Hya3JOP-1)... <br>
+É necessário ter conta na plataforma e solicitar convite para acessar o layout na página.
 
 <br>
 Ou também, segue abaixo uma imagem do projeto:
