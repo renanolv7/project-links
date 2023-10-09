@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Links </h1>
 
 <p align="center">
-  Projeto de site desenvolvido para armazenar todos os links das aulas na disciplina de <b>Desenvolvimento Web - IFPR</b>
+  Projeto de site desenvolvido para armazenar todos os links das aulas na disciplina de <b>Desenvolvimento Web I - IFPR</b>
 </p>
 
 <br>
@@ -29,4 +29,4 @@ Ou também, segue abaixo uma imagem do projeto:
 
 <br>
 
-<a href="https://www.linkedin.com/in/renanolv/">Autor - Renan Oliveira</a>
+<a href="https://www.linkedin.com/in/renanolv/">Desenvolvido por - Renan Oliveira</a>
