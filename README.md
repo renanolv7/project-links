@@ -29,12 +29,4 @@ Ou também, segue abaixo uma imagem do projeto:
 
 <br>
 
-<h2>
-  
-  ACESSE O SITE DESENVOLVIDO [AQUI](http://renanolv.pythonanywhere.com) 
-
-</h2>
-
-<br>
-
 <a href="https://www.linkedin.com/in/renanolv/">Desenvolvido por - Renan Oliveira</a>
