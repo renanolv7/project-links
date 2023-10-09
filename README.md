@@ -6,7 +6,7 @@
 
 <br>
 
-## <br>Tecnologias</br>
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## <br>Layout</br>
+## Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/8lFwgBvexOcQbwDeR1h1n7/Projeto---Links?type=design&node-id=0%3A1&mode=design&t=MLn5TQuT9Hya3JOP-1)... <br>
 É necessário ter conta na plataforma e solicitar convite para acessar o layout na página.
@@ -26,6 +26,14 @@ Ou também, segue abaixo uma imagem do projeto:
 <br>
 
 ![Projeto - Links](https://github.com/renanolv7/project-links/assets/118858754/ed9b94a6-06b2-4701-b4f7-aaadafef1455)
+
+<br>
+
+<h2>
+  
+  ACESSE O SITE DESENVOLVIDO [AQUI](http://renanolv.pythonanywhere.com) 
+
+</h2>
 
 <br>
 
