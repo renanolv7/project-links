@@ -28,3 +28,5 @@ Ou também, segue abaixo uma imagem do projeto:
 ![Projeto - Links](https://github.com/renanolv7/project-links/assets/118858754/ed9b94a6-06b2-4701-b4f7-aaadafef1455)
 
 <br>
+
+<a href="https://linktr.ee/renanolv?utm_source=linktree_admin_share">Autor - Renan Oliveira</a>
