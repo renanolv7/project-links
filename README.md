@@ -9,7 +9,7 @@
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- HTML e CSS
+- HTML, CSS e SASS
 - Git e Github
 - Figma
 
